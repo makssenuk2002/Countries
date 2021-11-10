@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,GACI,qBAAuB,CACvB,WAAY,CACZ,gBACJ","file":"main.f65cf097.chunk.css","sourcesContent":["h3{\r\n    border: 1px solid black;\r\n    width: 200px;\r\n    padding: 5px 10px;\r\n}\r\n"]}
